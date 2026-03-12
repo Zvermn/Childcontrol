@@ -1,0 +1,39 @@
+:root {
+    --footer-height: 0px;
+    --unit: 1rem;
+
+    --primary-color: #FDD8B2;
+    --secondary-color: #FDECD7;
+    --accent-color: #E7AB8C;
+
+    --primary-font-family: 'Manrope';
+    --primary-font-color: #000000;
+    --primary-font-weght: normal;
+    --primary-font-size: 16px;
+
+    --secondary-font-family: 'Montserrat';
+    --secondary-font-color: #8B7861;
+    --secondary-font-size: 12px;
+
+
+    --accent-font-family: 'Bebas Neue';
+    --accent-font-color: #FFFFFF;
+    --accent-font-size: 18px;
+
+
+
+
+    /* item variables */
+    --border-primary-color: #D59574;
+    --border-width: 1px;
+    --icon-width: 40px;
+    --icon-height: 40px;
+    /* border-radius */
+    --border-radius-sm: 8px;
+    --border-radius-md: 12px;
+    --border-radius-lg: 20px;
+    /* square button */
+    --border-primary-full: 1px solid var(--border-primary-color);
+
+
+}

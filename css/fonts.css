@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('fonts/Bebas/BebasNeueRegular.eot');
+    src: local('Bebas Neue Regular'), local('BebasNeueRegular'),
+        url('fonts/Bebas/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Bebas/BebasNeueRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/css/fonts/Montserrat/Montserrat-SemiBold.eot');
+    src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'),
+        url('/css/fonts/Montserrat/Montserrat-SemiBold.eot') format('embedded-opentype'),
+        url('/css/fonts/Montserrat/Montserrat-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/css/fonts/Montserrat/Montserrat-Medium.eot');
+    src: local('Montserrat Medium'), local('Montserrat-Medium'),
+        url('/css/fonts/Montserrat/Montserrat-Medium.eot') format('embedded-opentype'),
+        url('/css/fonts/Montserrat/Montserrat-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('/css/fonts/Manrope/Manrope-Regular.eot');
+    src: local('Manrope Regular'), local('Manrope-Regular'),
+        url('/css/fonts/Manrope/Manrope-Regular.eot') format('embedded-opentype'),
+        url('/css/fonts/Manrope/Manrope-Regular.woff2') format('woff2'),
+        url('/css/fonts/Manrope/Manrope-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('/css/fonts/Manrope/Manrope-Medium.eot');
+    src: local('Manrope Medium'), local('Manrope-Medium'),
+        url('/css/fonts/Manrope/Manrope-Medium.eot') format('embedded-opentype'),
+        url('/css/fonts/Manrope/Manrope-Medium.woff2') format('woff2'),
+        url('/css/fonts/Manrope/Manrope-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
