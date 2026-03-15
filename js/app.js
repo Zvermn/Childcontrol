@@ -1,6 +1,6 @@
 console.log('подключено');
 // открытие списка имен детенышей
-let arrowChildChoice = document.querySelector('.child-choice-icon');
+let arrowChildChoice = document.querySelector('.child-choice-btn');
 let childList = document.querySelector('.child-list');
 let openChildList = document.querySelector('.child-choice');
 // проверка что все элементы есть на странице
